@@ -1,5 +1,6 @@
 
-iDine App is used to order the food, whenever they want, no matter if it is morning, afternoon and night. Users can order breakfast, lunch and dinner, according to there wish.![cheese-toastie-thumb@2x](https://user-images.githubusercontent.com/68817698/126024036-c6606842-8de4-4d9a-add2-86396803667c.jpg)
+iDine App is used to order the food, whenever they want, no matter if it is morning, afternoon and night. Users can order breakfast, lunch and dinner, according to there wish.
+![cheese-toastie-thumb@2x](https://user-images.githubusercontent.com/68817698/126024036-c6606842-8de4-4d9a-add2-86396803667c.jpg)
 ![all-out-donuts-thumb@3x](https://user-images.githubusercontent.com/68817698/126024056-28bb22eb-608f-466d-aa6b-4866e0460296.jpg)
 ![cheese-toastie-thumb@3x](https://user-images.githubusercontent.com/68817698/126024058-18aa529d-7fce-4788-93f6-9e8b47da258d.jpg)
 ![corn-on-the-cob-thumb@3x](https://user-images.githubusercontent.com/68817698/126024059-7411dff1-92db-47b8-b657-df1c644702d9.jpg)
